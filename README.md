@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colivarese
-- 👀 I’m interested in Data Science, Computer Vision and Machine/Deep Learning.
-- 🌱 I’m currently learning how to use and build models with PyTorch!
+- 👀 I’m interested in Data Science, Computer Vision, NLP, and Machine/Deep Learning.
+- 🌱 I’m currently completing the Google Data Analytics Certification.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 ces.oe97@gmail.com
 
